@@ -127,7 +127,7 @@ ModLanguage('EN',{
 	"Cursors [setting]": "Cursors",
 	"visual display of your cursors": "/",
 	"Wobbly cookie": "/",
-	"Alt cookie sound": "Альт. звук печиво",
+	"Alt cookie sound": "Альт. звук печива",
 	"Icon crates": "Рамки для іконок",
 	"display boxes around upgrades and achievements in Stats": "/",
 	"Alt font": "/",
